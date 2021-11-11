@@ -1,1 +1,1 @@
-print("ini uts soprak")
+print("ini uts soprak gitbash dan github")
